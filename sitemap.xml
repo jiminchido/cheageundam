@@ -1,32 +1,127 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-        {% if post.sitemap.changefreq == null %}
-        <changefreq>daily</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
 
-        {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/outline1.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/outline2.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/index.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-1.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-2.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-3.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-4.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-5.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-6.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-7.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-8.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-9.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-10.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-11.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents1-12.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-1.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-2.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-3.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-4.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-5.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-6.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jiminchido.github.io/cheageundam/contents2-7.html</loc>
+  <lastmod>2025-06-22T09:27:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-    </url>
-    {% endfor %}
+
 </urlset>
