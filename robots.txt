@@ -3,4 +3,4 @@ layout: none
 ---
 User-agent: *
 Disallow:
-Sitemap: https://jiminchido.github.io/cheageundam/sitemap.xml
+Sitemap: https://jiminchido.github.io/cheageundam/sitemap_location.xml
