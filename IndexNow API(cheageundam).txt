@@ -1,0 +1,35 @@
+POST /IndexNow HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Host: api.indexnow.org
+{
+  "host": "https://jiminchido.github.io/cheageundam",
+  "key": "26c1c056bbde4c218f8fb1d2210761e4",
+  "keyLocation": "https://jiminchido.github.io/cheageundam/26c1c056bbde4c218f8fb1d2210761e4.txt",
+  "urlList": [
+      "https://jiminchido.github.io/cheageundam/url1"
+      "https://jiminchido.github.io/cheageundam/index.html/url2"
+      "https://jiminchido.github.io/cheageundam/outline1.html/url3"
+      "https://jiminchido.github.io/cheageundam/outline2.html/url4"
+      "https://jiminchido.github.io/cheageundam/contents1-1.html/url5"
+      "https://jiminchido.github.io/cheageundam/contents1-2.html/url6"
+      "https://jiminchido.github.io/cheageundam/contents1-3.html/url7"
+      "https://jiminchido.github.io/cheageundam/contents1-4.html/url8"
+      "https://jiminchido.github.io/cheageundam/contents1-5.html/url9"
+      "https://jiminchido.github.io/cheageundam/contents1-6.html/url10"
+      "https://jiminchido.github.io/cheageundam/contents1-7.html/url11"
+      "https://jiminchido.github.io/cheageundam/contents1-8.html/url12"
+      "https://jiminchido.github.io/cheageundam/contents1-9.html/url13"
+      "https://jiminchido.github.io/cheageundam/contents1-10.html/url14"
+      "https://jiminchido.github.io/cheageundam/contents1-11.html/url15"
+      "https://jiminchido.github.io/cheageundam/contents1-12.html/url16"
+      "https://jiminchido.github.io/cheageundam/contents2-1.html/url17"
+      "https://jiminchido.github.io/cheageundam/contents2-2.html/url18"
+      "https://jiminchido.github.io/cheageundam/contents2-3.html/url19"
+      "https://jiminchido.github.io/cheageundam/contents2-4.html/url20"
+      "https://jiminchido.github.io/cheageundam/contents2-5.html/url21"
+      "https://jiminchido.github.io/cheageundam/contents2-6.html/url22"
+      "https://jiminchido.github.io/cheageundam/contents2-7.html/url23"
+      ]
+}
+
+ 
