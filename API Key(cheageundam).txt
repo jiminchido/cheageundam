@@ -7,8 +7,6 @@ Host: api.indexnow.org
   "keyLocation": "https://jiminchido.github.io/cheageundam/81b63b22a6704572bc848ad363f57256.txt",
   "urlList": [
       "https://jiminchido.github.io/cheageundam/url1"
-      "https://jiminchido.github.io/cheageundam/outline1.html/url2",
-      "https://jiminchido.github.io/cheageundam/outline2.html/url3",
       "https://jiminchido.github.io/cheageundam/index.html/url4"
       "https://jiminchido.github.io/cheageundam/contents1-1.html/url5"
       "https://jiminchido.github.io/cheageundam/contents1-2.html/url6"

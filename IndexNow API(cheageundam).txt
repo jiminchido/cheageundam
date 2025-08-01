@@ -8,8 +8,6 @@ Host: api.indexnow.org
   "urlList": [
       "https://jiminchido.github.io/cheageundam/url1"
       "https://jiminchido.github.io/cheageundam/index.html/url2"
-      "https://jiminchido.github.io/cheageundam/outline1.html/url3"
-      "https://jiminchido.github.io/cheageundam/outline2.html/url4"
       "https://jiminchido.github.io/cheageundam/contents1-1.html/url5"
       "https://jiminchido.github.io/cheageundam/contents1-2.html/url6"
       "https://jiminchido.github.io/cheageundam/contents1-3.html/url7"
